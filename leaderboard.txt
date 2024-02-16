@@ -1,0 +1,10 @@
+aadi: 3873
+vidhi: 358
+harsh: 350
+arnav: 305
+taha: 275
+anubhab: 274
+tanya: 205
+adam: 202
+mariam: 155
+kriti: 56
